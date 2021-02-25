@@ -1,8 +1,8 @@
 {
     "name": "IP Scraper",
     "description": "Python Flask app for making a App to get the user IP address with some more details in your Telegram chat box.",
-    "repository": "https://github.com/jainamoswal/IP-Details",
-    "logo": "https://github.com/jainamoswal/IP-Details/blob/main/Assets/image.jpg?raw=true",
+    "repository": "https://github.com/demon9882/IP-Details",
+    "logo": "https://github.com/demon9882/IP-Details/blob/main/Assets/image.jpg?raw=true",
     "keywords": ["Python", "Flask", "API", "IP", "Scrap"],
     "env": {
         "OWNER_ID": {

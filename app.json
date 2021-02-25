@@ -7,11 +7,11 @@
     "env": {
         "OWNER_ID": {
           "description": "Enter your Telegram user id.",
-          "value": "1655770878"
+          "value": ""
         },
         "BOT_API": {
           "description": "Enter your Bot API which you got from @botfather",
-          "value": "1698166918:AAEwP8VFOxZ0_fsUtvjWGOh02qV6R-nQs24"
+          "value": ""
         }
       }
   }
